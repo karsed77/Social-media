@@ -38,7 +38,6 @@ node_modules/
 *.cache
  
 #  Fichiers de build
-build/
-dist/
+
 
 
