@@ -29,7 +29,13 @@ const allowedOrigins = [
 ];
 
 const corsOptions = {
-  origin: process.env.CLIENT_URL || "http://localhost:5173", 
+  origin: function (origin, callback) {
+    if (!origin || allowedOrigins.includes(origin)) {
+      callback(null, true);
+    } else {
+      callback(new Error(`Origine non autorisée : ${origin}`));
+    }
+  },
   credentials: true,
   allowedHeaders: ["sessionId", "Content-Type"],
   exposedHeaders: ["sessionId"],
