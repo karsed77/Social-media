@@ -60,7 +60,7 @@ karsed77-project_social_media/
 
 ```
 ## **🌍 Démo en ligne**
-L'application est hébergée sur Railway. Vous pouvez la tester ici : https://projectsocialmedia-production.up.railway.app/
+L'application est hébergée sur Railway. Vous pouvez la tester ici : https://karsed.up.railway.app
 
 ## **⚙️ Installation et exécution en local**
 ### Prérequis
