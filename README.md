@@ -13,7 +13,7 @@ Ce projet est une plateforme de réseau social développée avec **React**, **No
 - 💬 **Commentaires** : ajouter et gérer les commentaires sur les publications.
 - 🖍 **Gestion du profil** : Mise à jour de la bio, choix d'avatars, et gestion des abonnés/abonnements.
 - 📈 **Fil de tendances** : Affichage des posts les plus populaires.
-- 🖼️ **Gestion des avatars** : avatars hébergés sur **Cloudinary**.
+- 🖼️ **Gestion des images et des avatars** : Hébergés sur **Cloudinary**.
 - 📱 **Interface responsive** : design moderne et adapté aux différents écrans.
 
 ---

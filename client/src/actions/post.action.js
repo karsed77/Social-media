@@ -4,6 +4,7 @@ import axios from "axios";
 export const GET_POSTS = "GET_POSTS";
 export const GET_USER = "GET_USER";
 export const GET_ALL_POSTS = "GET_ALL_POSTS";
+export const SET_TOTAL_POSTS = "SET_TOTAL_POSTS";
 export const ADD_POST = "ADD_POST";
 export const LIKE_POST = "LIKE_POST";
 export const UNLIKE_POST = "UNLIKE_POST";

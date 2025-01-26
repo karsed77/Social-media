@@ -1,6 +1,5 @@
 import { useCallback, useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { RingLoader } from "react-spinners";
 import { getPosts } from "../../actions/post.action";
 import { getUsers } from "../../actions/users.action";
 import Card from "../posts/Card";
@@ -23,6 +22,7 @@ function Thread() {
     }
     window.addEventListener("scroll", loadMore);
     return () => window.removeEventListener("scroll", loadMore);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [loadPost, dispatch, count]);
 
   // Charger les utilisateurs
@@ -42,17 +42,14 @@ function Thread() {
 
   return (
     <div className="thread-container">
+      {/* Afficher les posts */}
       <ul>
         {!isEmpty(posts[0]) &&
           posts.map((post) => {
             return <Card post={post} key={post._id} />;
           })}
       </ul>
-      {loadPost && (
-        <div className="loader">
-          <RingLoader color="#36D7B7" size={50} />
-        </div>
-      )}
+
     </div>
   );
 }

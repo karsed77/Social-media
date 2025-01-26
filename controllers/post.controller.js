@@ -1,18 +1,17 @@
 const PostModel = require("../models/post.model");
 const UserModel = require("../models/user.model");
 const ObjectID = require("mongoose").Types.ObjectId;
-const fs = require("fs").promises; // Utiliser `fs.promises` pour gérer les fichiers
+const fs = require("fs").promises;
 const { uploadErrors } = require("../utils/errors.utils");
 const cloudinary = require("cloudinary").v2;
 const streamifier = require("streamifier");
 
-
+// Configuration de Cloudinary
 cloudinary.config({
   cloud_name: process.env.CLOUDINARY_NAME,
   api_key: process.env.CLOUDINARY_API_KEY,
   api_secret: process.env.CLOUDINARY_API_SECRET,
 });
-
 
 // :::::::::::::::::::::  PUBLICATION  ::::::::::::::::::::::::::::::::::::::::::::::::
 // Pour les publications
@@ -29,8 +28,7 @@ module.exports.readPost = (req, res) => {
 };
 
 // :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-// Pour la création de publication (avec image)
-// Créer un post
+// Pour la création de publication (avec image ou vidéo)
 module.exports.createPost = async (req, res) => {
   let pictureUrl = "";
 
@@ -85,8 +83,6 @@ module.exports.createPost = async (req, res) => {
   }
 };
 
-
-    
 // :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 // Pour la mise à jour de publication
 module.exports.updatePost = (req, res) => {

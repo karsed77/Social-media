@@ -10,13 +10,13 @@ import {
   UPDATE_POST,
 } from "../actions/post.action";
 
-const initialState = [];
+const initialState = {};
 
 export default function postReducer(state = initialState, action) {
   switch (action.type) {
     case GET_POSTS:
       return action.payload; // Met à jour les posts 
-      
+
      case ADD_POST:
       return [action.payload, ...state]; // Ajoute un nouveau post au début de la liste
 
