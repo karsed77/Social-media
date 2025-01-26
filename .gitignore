@@ -1,0 +1,21 @@
+
+# Fichiers .env
+*.env
+*.env.local
+*.env.development
+*.env.production
+
+# Dossiers node_modules
+node_modules/
+
+/config/.env
+
+/node.modules
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+@use './settings' as *;
+@use './pages/accueil';
+@use './pages/profil';
+@use './pages/CG.scss';
+@use './pages/tendance.scss';
+@use './components/navbar.scss';
+@use './components/card.scss';
+@use './components/newPostForm.scss';
+@use './components/friendsHint.scss';
+@use './components/trends.scss';
+@use './components/leftNav.scss';
+@use './components/scrollToTop.scss';
+@use './components/userProfil.scss';
+@use './components/socialNetworkBackground';

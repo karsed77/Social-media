@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736524973/profil-pictures/jrpxd8iyjewrtc7ubczq.jpg",
+    "name": "Avatar 2",
+    "theme": "classique"
+  },
+  {
+    "id": 37,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736696173/mountains-6818253_1280_xw5ju9.jpg",
+    "name": "Avatar 4",
+    "theme": "classique"
+  },
+  {
+    "id": 3,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736672716/princess-jasmine-7498756_1280_tyeyc0.jpg",
+    "name": "Avatar 5",
+    "theme": "classique"
+  },
+  {
+    "id": 4,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736694567/BB_lxs128.png",
+    "name": "Avatar 8",
+    "theme": "classique"
+  },
+  {
+    "id": 5,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736694635/man-5930748_1280_nbrbf4.webp",
+    "name": "Avatar 8",
+    "theme": "classique"
+  },
+{
+    "id": 6,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736696200/lady-3783027_1280_tqpgqs.webp",
+    "name": "Avatar 5",
+    "theme": "classique"
+},
+  {
+    "id": 38,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736694655/standup-paddleboarding-7210815_1280_vv4jns.jpg",
+    "name": "Avatar 5",
+    "theme": "classique"
+  },
+  {
+    "id": 7 ,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736694607/brown-bear-7591629_1280_o3ousc.webp",
+    "name": "Avatar 8",
+    "theme": "nature/animal"
+  },
+  {
+    "id": 8,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736526140/profil-pictures/wc51xxxlpucrpf2k4qvi.jpg",
+    "name": "Avatar 1",
+    "theme": "nature/animal"
+  },
+  {
+    "id": 9,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736694591/kitten-6479019_640_pkl8bi.jpg",
+    "name": "Avatar 7",
+    "theme": "nature/animal"
+  },
+  {
+    "id": 10 ,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736694598/eagle-2045655_640_u4hmxa.jpg",
+    "name": "Avatar 8",
+    "theme": "nature/animal"
+  },
+  {
+    "id": 12,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736675395/man-792821_1280_lhx9x8.jpg",
+    "name": "Avatar 9",
+    "theme": "classique"
+  },
+  {
+    "id": 13,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736451413/profil-pictures/dupob63l6xilczvwtkha.jpg",
+    "name": "Avatar 3",
+    "theme": "nature/animal"
+  },
+  {
+    "id":   14,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736672819/arbre_faavsz.jpg",
+    "name": "Avatar 5",
+    "theme": "nature/animal"
+  },
+  {
+    "id": 15,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736443051/profil-pictures/bw6nwrlh4mydsjplwhmo.jpg",
+    "name": "Avatar 4",
+    "theme": "nature/animal"
+  },
+  {
+    "id":   16,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736694583/owl-50267_640_r04opm.jpg",
+    "name": "Avatar 5",
+    "theme": "nature/animal"
+  },
+  {
+    "id": 17,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736691877/funEmoji-1736691702557_p6rn9m.jpg",
+    "name": "Avatar 7",
+    "theme": "fun"
+  },
+  {
+    "id": 18,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736674568/funEmoji-1736674555566_ymwcu7.jpg",
+    "name": "Avatar 8",
+    "theme": "fun"
+  },
+  {
+    "id": 19,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736691873/funEmoji-1736691683673_dz5qsj.jpg",
+    "name": "Avatar 8",
+    "theme": "fun"
+  },
+  {
+    "id": 20,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736691876/funEmoji-1736691698173_eitww6.jpg",
+    "name": "Avatar 8",
+    "theme": "fun"
+  },
+  {
+    "id": 21,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736691874/funEmoji-1736691691753_zwousb.jpg",
+    "name": "Avatar 8",
+    "theme": "fun"
+  },
+  {
+    "id": 22,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736691875/funEmoji-1736691693857_jl96na.jpg",
+    "name": "Avatar 8",
+    "theme": "fun"
+  },
+  {
+    "id": 23,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736691878/funEmoji-1736691707128_gtcuh0.jpg",
+    "name": "Avatar 8",
+    "theme": "fun"
+  },
+  {
+    "id": 24,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736691879/funEmoji-1736691711481_kxq0zd.jpg",
+    "name": "Avatar 8",
+    "theme": "fun"
+  },
+  {
+    "id": 25,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736691881/funEmoji-1736691720050_jrd6zs.jpg",
+    "name": "Avatar 8",
+    "theme": "fun"
+  },
+  {
+    "id": 26,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736691880/funEmoji-1736691715171_rlv3y5.jpg",
+    "name": "Avatar 8",
+    "theme": "fun"
+  },
+  {
+    "id":   27,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736691882/funEmoji-1736691723356_w55aor.jpg",
+    "name": "Avatar 8",
+    "theme": "fun"
+  },
+  {
+    "id": 28,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736691883/funEmoji-1736691730207_v5ifsf.jpg",
+    "name": "Avatar 8",
+    "theme": "fun"
+  },
+  {
+    "id": 29,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736691884/funEmoji-1736691732835_unlw9z.jpg",
+    "name": "Avatar 8",
+    "theme": "fun"
+  },
+  {
+    "id": 30,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736691886/funEmoji-1736691735558_wipz9r.jpg",
+    "name": "Avatar 8",
+    "theme": "fun"
+  },
+  {
+    "id": 31,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736691886/funEmoji-1736691740134_hf9zrx.jpg",
+    "name": "Avatar 8",
+    "theme": "fun"
+  },
+  {
+    "id": 32,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736691887/funEmoji-1736691743799_enetao.jpg",
+    "name": "Avatar 8",
+    "theme": "fun"
+  },
+  {
+    "id": 33,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736691888/funEmoji-1736691746378_okvm53.jpg",
+    "name": "Avatar 8",
+    "theme": "fun"
+  },
+  {
+    "id": 34,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736691889/funEmoji-1736691750416_fbabfn.jpg",
+    "name": "Avatar 8",
+    "theme": "fun"
+  },
+  {
+    "id": 35,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736691890/funEmoji-1736691753388_sgghfy.jpg",
+    "name": "Avatar 8",
+    "theme": "fun"
+  },
+  {
+    "id": 36,
+    "url": "https://res.cloudinary.com/dz2rmepqq/image/upload/v1736691893/funEmoji-1736691761740_hjsysf.jpg",
+    "name": "Avatar 8",
+    "theme": "fun"
+  }
+]

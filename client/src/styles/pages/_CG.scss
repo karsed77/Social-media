@@ -1,0 +1,42 @@
+@use "../settings" as *;
+
+.CG {
+  height: 100%;
+  color: $color-5;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: center;
+  padding: 0 1rem;
+  h1 {
+    font-size: 2rem;
+    margin: 90px 0 30px;
+  }
+
+  .content {
+    border: 1px solid $color-5;
+    border-radius: 10px;
+    padding: 2rem;
+    margin: 2rem;
+    p {
+      margin-bottom: 1.5rem;
+      font-size: 1rem;
+    }
+    li {
+      margin-bottom: 0.5rem;
+      font-size: 1rem;
+    }
+    a {
+      color: $color-5;
+
+      font-weight: 700;
+      &:hover {
+        color: greenyellow;
+      }
+    }
+    .contact {
+      margin-top: 2rem;
+      border-top: 1px solid $color-5;
+      padding-top: 1rem;
+    }
+  }
+}

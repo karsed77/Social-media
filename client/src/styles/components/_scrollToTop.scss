@@ -1,0 +1,66 @@
+//  Bouton de retour en haut de page
+
+.scroll-to-top-container {
+  position: fixed;
+  bottom: 30px;
+  left: 30px;
+  z-index: 1000;
+
+  .scroll-to-top {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 55px;
+    height: 55px;
+    background: linear-gradient(135deg, #14213d, #4b7dc2);
+    color: #f1faee;
+    border: none;
+    border-radius: 50%; // Cercle parfait
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    transition: all 0.3s ease;
+
+    &:hover {
+      background: linear-gradient(135deg, #1d3557, #457b9d);
+      transform: scale(1.2);
+      box-shadow: 0 8px 15px rgba(0, 0, 0, 0.4);
+    }
+
+    &:active {
+      transform: scale(0.95);
+    }
+
+    svg {
+      font-size: 24px;
+      animation: bounce 2s infinite;
+    }
+  }
+
+
+  @media (max-width: 1350px) {
+    bottom: 20px;
+    left: 20px;
+  }
+
+  @media (max-width: 768px) {
+    bottom: 20px;
+    right: 20px;
+  }
+}
+
+// Animation pour l'icône
+@keyframes bounce {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-5px);
+  }
+  60% {
+    transform: translateY(-3px);
+  }
+}
