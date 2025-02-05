@@ -57,7 +57,7 @@ const UpdateProfil = () => {
   // Gestion de l'état de chargement
   useEffect(() => {
     if (isEmpty(userData) || !userData._id) {
-      dispatch(getUser("USER_ID_PAR_DÉFAUT")); // Remplacez USER_ID_PAR_DÉFAUT par une valeur réelle.
+      dispatch(getUser("USER_ID_PAR_DÉFAUT")); 
     } else {
       setIsLoading(false);
     }

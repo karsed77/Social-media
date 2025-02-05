@@ -99,3 +99,4 @@ FollowHandler.propTypes = {
   idToFollow: propTypes.string.isRequired,
   type: propTypes.string.isRequired,
 };
+
